@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Legendary Tribble !
 
-You can use the [editor on GitHub](https://github.com/Omouu/legendary-tribble/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I don't what **Tribble** means ...
+I'm keep learning how to perfect this place.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Omouu/legendary-tribble/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Things is or will be involved in this repo:
+- [] 计算机网络 - 潘爱民译
+  - [] ch1 引言
+  - [] ch2 物理层
+  - [] ch3 数据链路层
+  - [] ch4 介质访问控制子层
+  - [] ch5 网络层
+  - [] ch6 传输层
+  - [] ch7 应用层
+  - [] ch8 网络安全
+  - [] ch9 阅读清单和参考书目
+- [] 各种笔记
