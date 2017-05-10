@@ -14,5 +14,3 @@ I'm keep learning how to perfect this place.
 - [ ] 计算机网络 - 潘爱民译 - ch7 应用层
 - [ ] 计算机网络 - 潘爱民译 - ch8 网络安全
 - [ ] 计算机网络 - 潘爱民译 - ch9 阅读清单和参考书目
-
-- [ ] 各种笔记
