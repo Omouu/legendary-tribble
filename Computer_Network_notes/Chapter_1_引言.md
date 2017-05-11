@@ -3,19 +3,20 @@
 ---
 
 ## 1.网络硬件
+
 - **点到点链路** - Point to Point
 - **广播式链路** - Boradcasting
 
 1. **PAN** - Personal Area Network - 个域网：多个设备围绕一个人进行通信
 2. **LAN** - Local Area Network - 局域网：私有网络，一般在一栋建筑内
-  - **AP** - Access Point - 接入点：**无线路由器**（wireless router）；**基站**（base station）
-  - **WiFi**：无线局域网的 IEEE 802.11标准
-  - 点到点的无线拓扑结构
-  - **以太网** - Ethernet：IEEE 802.3 有线局域网
+   - **AP** - Access Point - 接入点：**无线路由器**（wireless router）；**基站**（base station）
+   - **WiFi**：无线局域网的 IEEE 802.11标准
+   - 点到点的无线拓扑结构
+   - **以太网** - Ethernet：IEEE 802.3 有线局域网
 3. **MAN** - Metropolitan Area Network - 城域网
 4. **WAN** - Wide Area Network - 广域网
-  - **主机，通信子网，交换机** - host，communication subnet，switch：路由器（router）
-  - **NSP，ISP** - Network/Internet Service Provider - 网络/因特网服务提供商：子网经营者
+   - **主机，通信子网，交换机** - host，communication subnet，switch：路由器（router）
+   - **NSP，ISP** - Network/Internet Service Provider - 网络/因特网服务提供商：子网经营者
  
 ## 2.网络软件
 - **面向连接的服务** - connection-oriented service：通信前先建立连接
@@ -33,10 +34,10 @@
   6. **表示层** - persentation layer
   7. **应用层** - application layer ：HTTP（HyperText Transfer Protocol）
   
-#### OSI模型的核心：
-**_服务_**：该层做什么，定义了该层的语义
-**_接口_**：告诉上一层的进程如何访问本层，规定了参数和结果
-**_协议_**：本内内部的事情，规定了如何工作，可随意更换不影响其他层
+### OSI模型的核心：
+**_服务_**：该层做什么，定义了该层的语义.
+**_接口_**：告诉上一层的进程如何访问本层，规定了参数和结果.
+**_协议_**：本内内部的事情，规定了如何工作，可随意更换不影响其他层.
   
 ### **TCP/IP** - TCP/IP Reference Model
   1. **链路层** - link layer：不是真正意义上的层，是主机与传输线路之间的一个接口。DSL，SONET，802.11，Ethernet
@@ -65,11 +66,3 @@
 - **ICMP** - Internet Control Message Protocal - 因特网控制报文协议
 - **TCP** - Transport Control Protocol - 传输控制协议
 - **UDP** - User Datagram Protocol - 用户数据报协议
-
-
-
-
-
-
-
-
