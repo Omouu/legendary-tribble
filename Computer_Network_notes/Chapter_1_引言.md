@@ -54,7 +54,6 @@
 | 2     |   数据链路层   |
 | 1     |     物理层     |
 
-
 ## ABBREVIATION
 - **VPN** - Virtual Private Networks - 虚拟专用网络
 - **RFID** - Radio Frequency IDentification - 射频识别
